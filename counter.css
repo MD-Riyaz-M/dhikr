@@ -59,6 +59,7 @@ h1{
   body{
     background-color: #0A883C;
     color: white;
+    border: 4px solid white;
   }
    p{
     text-align: center;
