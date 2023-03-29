@@ -26,7 +26,7 @@ h1{
 #reset{
   position: relative;
   padding: 30px 40px;
-  width: 10%;
+  width: 50%;
   border: 0;
   border-radius: 40px;
 
@@ -34,6 +34,7 @@ h1{
 .dhikr button {
   margin: 0 10px;
   vertical-align: middle;
+  font-size: 50px;
 }
 #increment:hover {
   background-color: #DFF0D8;
