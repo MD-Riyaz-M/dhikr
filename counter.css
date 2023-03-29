@@ -1,5 +1,6 @@
 body{
   display: block;
+  border: 10px solid white;
 }
 h1{
     display: flex;
